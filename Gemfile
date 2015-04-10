@@ -32,7 +32,7 @@ gem 'unicorn'
 # Use Capistrano for deployment
 group :development do
   # Use Capistrano for deployment
-  gem 'capistrano', '~> 3.1'
+  gem 'capistrano', '~> 3.4'
   gem 'capistrano-postgresql', '~> 4.2.0'
   gem 'capistrano-rails', '~> 1.1.1'
   gem 'capistrano-bundler'
