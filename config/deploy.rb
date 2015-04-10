@@ -1,3 +1,4 @@
+lock '3.4.0'
 # application name and the github repository
 set :application, 'blog'
 set :repo_url, 'git@github.com:abrahamks/deployingRails.git'
